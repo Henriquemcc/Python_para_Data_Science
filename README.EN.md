@@ -8,7 +8,7 @@ This repository contains the files developed during the Python for Data Science 
 
 The official files for the course, developed by the instructor, are available in the GitHub repository of this Alura course:
 
-[____](____).
+[Python para Data Science](https://github.com/alura-cursos/1766-logica-programacao-python).
 
 ## Courses
 

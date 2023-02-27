@@ -8,7 +8,7 @@ Este repositório contém os arquivos desenvolvidos durante o curso online de Py
 
 Os arquivos oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis no repositório do Github deste curso da Alura:
 
-[____](____).
+[Python para Data Science](https://github.com/alura-cursos/1766-logica-programacao-python).
 
 ## Cursos
 
