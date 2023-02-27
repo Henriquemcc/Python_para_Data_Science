@@ -1,8 +1,8 @@
 [English Version](README.EN.md)
 
-# Aprendendo _____
+# Aprendendo Python para Data Science
 
-Este repositório contém os arquivos desenvolvidos durante o curso online de ____ realizado na plataforma [Alura Cursos Online](https://alura.com.br).
+Este repositório contém os arquivos desenvolvidos durante o curso online de Python para Data Science realizado na plataforma [Alura Cursos Online](https://alura.com.br).
 
 ## Repositório Oficial da Alura
 
@@ -14,4 +14,4 @@ Os arquivos oficiais do curso, desenvolvidos pelo instrutor, estão disponíveis
 
 Os cursos em que estes arquivos foram desenvolvidos:
 
-[____](____).
+[Python para Data Science](https://cursos.alura.com.br/course/python-intro).
