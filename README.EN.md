@@ -1,4 +1,4 @@
-[Versão em Português](README.md)
+﻿[Versão em Português](README.md)
 
 # Learning Python for Data Science
 
@@ -15,3 +15,5 @@ The official files for the course, developed by the instructor, are available in
 The courses in which these files were developed:
 
 [Python para Data Science](https://cursos.alura.com.br/course/python-intro).
+
+[Python para Data Science: linguagem e Numpy](https://cursos.alura.com.br/course/python-tipos-listas-numpy).
